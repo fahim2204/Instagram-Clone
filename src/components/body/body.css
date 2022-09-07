@@ -9,5 +9,7 @@
 }
 
 .insta-border-1 {
-    border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+    background: rgb(232, 86, 203);
+    background: linear-gradient(-100deg, rgba(232, 86, 203, 1) 0%, rgba(255, 22, 108, 1) 44%, rgba(255, 196, 0, 1) 100%);
+    padding: 2px;
 }
