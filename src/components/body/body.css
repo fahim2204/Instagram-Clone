@@ -1,0 +1,13 @@
+.scroll-story {
+    max-width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.scroll-story::-webkit-scrollbar {
+    height: 0;
+}
+
+.insta-border-1 {
+    border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+}
