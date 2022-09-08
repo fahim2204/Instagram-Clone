@@ -7,7 +7,7 @@ import { useState } from "react"
 
 
 const Body = () => {
-    const [dummyApi, setDummyApi] = useState(userDummyApi)
+    const [dummyApi, setDummyApi] = useState(userDummyApi.posts)
     return (
         <>
             <div style={{ marginTop: "68px", backgroundColor: "#fafafa" }}>

@@ -37,3 +37,12 @@ input:focus {
 .line-height-2 {
     line-height: 18px;
 }
+
+.test-trans {
+    transition: all 0.2s ease-in-out;
+}
+
+.hover-opacity:hover {
+    opacity: 0.5;
+    transition: all 0.2s ease-in-out;
+}
