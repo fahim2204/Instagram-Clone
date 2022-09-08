@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <>
-            <nav className="container-fluid fixed-top border-bottom">
+            <nav className="container-fluid fixed-top border-bottom bg-white">
                 <div className="container">
                     <div className="row mx-5 px-3 pt-1">
                         <div className="col-4 d-flex justify-content-start py-3">

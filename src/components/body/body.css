@@ -13,3 +13,19 @@
     background: linear-gradient(-100deg, rgba(232, 86, 203, 1) 0%, rgba(255, 22, 108, 1) 44%, rgba(255, 196, 0, 1) 100%);
     padding: 2px;
 }
+
+.story-font {
+    font-size: 0.7rem;
+}
+
+.post-time-font {
+    font-size: 0.62rem;
+}
+
+.input-comment-font {
+    font-size: 0.85rem;
+}
+
+input:focus {
+    outline: none;
+}
