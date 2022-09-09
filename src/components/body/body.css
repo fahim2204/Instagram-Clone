@@ -8,6 +8,16 @@
     height: 0;
 }
 
+.scroll-comment {
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.scroll-comment::-webkit-scrollbar {
+    height: 0;
+}
+
 .insta-border-1 {
     background: rgb(232, 86, 203);
     background: linear-gradient(-100deg, rgba(232, 86, 203, 1) 0%, rgba(255, 22, 108, 1) 44%, rgba(255, 196, 0, 1) 100%);
@@ -45,4 +55,8 @@ input:focus {
 .hover-opacity:hover {
     opacity: 0.5;
     transition: all 0.2s ease-in-out;
+}
+
+.comment-sec {
+    height: 90vh;
 }

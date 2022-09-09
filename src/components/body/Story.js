@@ -19,7 +19,7 @@ const Story = () => {
         },
         {
             name: "joeraj",
-            id: 35
+            id: 38
         },
         {
             name: "danielle",
@@ -32,6 +32,10 @@ const Story = () => {
         {
             name: "barkerpro",
             id: 36
+        },
+        {
+            name: "siaf",
+            id: 37
         }
     ]
 
