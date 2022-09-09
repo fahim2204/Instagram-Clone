@@ -17,7 +17,7 @@ const Body = () => {
                             <Story />
                             <Posts dummyApi={dummyApi} setDummyApi={setDummyApi} />
                         </div>
-                        <div className="d-none d-md-block col-4 col-xl-5 ps-4">
+                        <div className="d-none d-md-block col-4 col-xl-5 ps-4 ps-lg-5">
                             <UserSection/>
                         </div>
                     </div>
